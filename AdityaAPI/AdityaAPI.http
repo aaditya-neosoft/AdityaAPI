@@ -1,0 +1,6 @@
+@AdityaAPI_HostAddress = http://localhost:5037
+
+GET {{AdityaAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
